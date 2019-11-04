@@ -1,1 +1,1 @@
-# gtoj
+# gtoj is true power !
